@@ -2,6 +2,6 @@
     "adConfig":{
         "rewardVideoAd":false,
         "bannerAd":true,
-        "InterstitialoAd":true
+        "InterstitialoAd":false
     }
 }
